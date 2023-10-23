@@ -18,3 +18,5 @@ I have created an object and assigned it inside another list to update its movem
 created a blank list and updated updated x y and color variables, the values are assigned using random variable within (-1,1) range to gererate random number of balls and color, if the list is empty. 
 If not, started a loop upto the length of the list. There, assigned list values with variables. By Increasing or decreasing speed, made the balls go forward diagonally. And when the balls hit the wall(from (0,0) to (500, 500)), it bounces back.
 
+```https://github.com/Mouly22/Computer_Graphics/blob/main/Magic_Balls.py```
+
