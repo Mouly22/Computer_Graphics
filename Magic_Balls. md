@@ -1,12 +1,7 @@
 Design a box with the following functionalities and ensure they all work independently and in any combination. Check out the gifs along with instructions for better understanding.
 
 
-``` 
-
-
-```
-The right button click on a mouse will generate random movable points with different  colours  going  in   any   random   direction   diagonally. For instance, if a point is generated at (0,0), it can go to (-1, 1), (-1, -1), (1,1), or (1, -1), and so on. The  points should be spawned where the  right button  click will be given in the box and the colour and direction of movement should be random.
-```
+*** The right button click on a mouse will generate random movable points with different  colours  going  in   any   random   direction   diagonally. For instance, if a point is generated at (0,0), it can go to (-1, 1), (-1, -1), (1,1), or (1, -1), and so on. The  points should be spawned where the  right button  click will be given in the box and the colour and direction of movement should be random. ***
 
 
 
