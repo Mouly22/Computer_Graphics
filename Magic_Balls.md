@@ -1,4 +1,4 @@
-Design a box with the following functionalities and ensure they all work independently and in any combination. Check out the gifs along with instructions for better understanding.
+<h2>Design a box with the following functionalities and ensure they all work independently and in any combination. Check out the gifs along with instructions for better understanding.</h2>
 
 i. The right button click on a mouse will generate random movable points with different  colours  going  in   any   random   direction   diagonally. 
    For instance, if a point is generated at (0,0), it can go to (-1, 1), (-1, -1), (1,1), or (1, -1), and so on. 
@@ -6,10 +6,13 @@ i. The right button click on a mouse will generate random movable points with di
 
 ii. Pressing the “up arrow” key on the keyboard will increase the speed of all the points generated so far and pressing the “down  arrow” key on the
     keyboard will decrease the speed.
+    
 iii.The left button click on a mouse will make the points blink i.e. if a point is in red, it will go background colour(here it’s black) and return to red, and
     this transition should take place within a second while the transition cycle goes on.
+    
 iv. Pressing the “Spacebar” on the keyboard should freeze all the points and none   of   the   above   functionalities   will   work   when   frozen.   The   same
    “Spacebar” should unfreeze them.
+   
 
 
 The right button click on a mouse will generate random movable points with different  colours  going  in   any   random   direction   diagonally.
